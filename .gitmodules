@@ -1,0 +1,9 @@
+[submodule "assessmentapp-ui"]
+	path = assessmentapp-ui
+	url = https://github.com/sf-fresher-batch-2020/assessmentapp-ui.git
+[submodule "assessmentapp-angular-ui"]
+	path = assessmentapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/assessmentapp-angular-ui.git
+[submodule "assessmentapp-api"]
+	path = assessmentapp-api
+	url = https://github.com/sf-fresher-batch-2020/assessmentapp-api.git
