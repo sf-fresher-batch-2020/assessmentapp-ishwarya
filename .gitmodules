@@ -7,3 +7,6 @@
 [submodule "assessmentapp-api"]
 	path = assessmentapp-api
 	url = https://github.com/sf-fresher-batch-2020/assessmentapp-api.git
+[submodule "assessmentapp-mock-api"]
+	path = assessmentapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/assessmentapp-mock-api.git
